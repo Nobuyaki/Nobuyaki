@@ -7,5 +7,4 @@
 <h2>About Me</h2
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nobuyaki&layout=compact&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobuyaki&count_private=true&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobuyaki&layout=compact)](https://github.com/nobuyaki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobuyaki&layout=compact&theme=midnight-purple)](https://github.com/nobuyaki/github-readme-stats)
