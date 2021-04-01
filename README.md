@@ -6,5 +6,5 @@
 <p align='center'>hmmm......</p>
 <h2>About Me</h2
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Nobuyaki&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobuyaki&count_private=true&show_icons=true&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=Nobuyaki&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobuyaki&count_private=true&show_icons=true&theme=midnight-purple)
