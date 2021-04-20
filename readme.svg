@@ -65,7 +65,7 @@
 		                h2 {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 1s ease 0s normal forwards 0 fadeIn;
+					animation: 1s ease 0s normal forwards 1 fadeIn;
 				}
 				p {
 					font-size: 20px;
