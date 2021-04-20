@@ -62,6 +62,11 @@
 						0 12px 5px rgba(0, 0, 0, 0.1);
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
+		                h2 {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+					animation: 1s ease 0s normal forwards 0 fadeIn;
+				}
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
@@ -70,6 +75,7 @@
 			</style>
 			<div class="container">
 				<h1>NOBUYAKI</h1>
+                                <h2>16 y.o</h2>
 				<p>Beginner programmers</p>
 			</div>
 		</div>
