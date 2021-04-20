@@ -4,7 +4,7 @@
 <h1 align='center'>Hai I'm Nobu👋</h1>
 <p align='center'>16 y.o</p>
 <p align='center'>hmmm......</p>
-<img src="download.svg">
+<img src="readme.svg">
 
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/dimas.ptr0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
