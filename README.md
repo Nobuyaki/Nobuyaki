@@ -1,5 +1,5 @@
 <p align="center">
-<img src="profile.png" width="128" height="128"/>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nobuyaki?theme=gelbooru-h"></a>
 </p>
 <h1 align='center'>Hai I'm Nobu👋</h1>
 <p align='center'>hmmm......</p>
