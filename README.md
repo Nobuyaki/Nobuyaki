@@ -7,7 +7,7 @@
 
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/dimas.ptr0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/6282136498803" target="_blank"><img src="https://img.shields.io/badge/discord-%808080.svg?&style=flat-square&logo=discord&logoColor=#7289da" alt="Whatsapp"></a>
+<a href="https://wa.me/6282136498803" target="_blank"><img src="https://img.shields.io/badge/discord-%7289da.svg?&style=flat-square&logo=discord&logoColor=#7289da" alt="Whatsapp"></a>
 
 <h2>About Me</h2
 
