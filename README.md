@@ -8,7 +8,6 @@
 ### 📫 Follow Me On
 <a href="https://www.instagram.com/dimas.ptr0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-
 <h2>About Me</h2
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nobuyaki&layout=compact&theme=midnight-purple)
