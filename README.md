@@ -1,6 +1,4 @@
-<p align="center">
 ![](https://visitor-badge.glitch.me/badge?page_id=Nobuyaki)
-</p>
 <h1 align='center'>Hai I'm Nobu👋</h1>
 <p align='center'>hmmm......</p>
 <img src="readme.svg">
