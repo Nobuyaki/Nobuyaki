@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@nobuyaki?theme=gelbooru-h"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=Nobuyaki)
 </p>
 <h1 align='center'>Hai I'm Nobu👋</h1>
 <p align='center'>hmmm......</p>
