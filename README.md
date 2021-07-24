@@ -12,3 +12,11 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nobuyaki&layout=compact&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobuyaki&layout=compact&theme=midnight-purple)](https://github.com/nobuyaki/github-readme-stats)
+
+### 📌 Annother Pin Project
+<details>
+  <summary>Bot Discord</summary>
+   <a href="https://github.com/Nobuyaki/RoxyBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=RoxyBot">
+  </a>
+</details>
