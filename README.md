@@ -22,6 +22,6 @@
 <details>
   <summary>App</summary>
    <a href="https://github.com/Nobuyaki/ChatApp">
-    <img src="./project/ChatApp.png">
+    <img src="./project/Nobuyaki-ChatApp.png">
    </a>
 </details>
