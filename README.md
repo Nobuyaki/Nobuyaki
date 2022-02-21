@@ -13,8 +13,14 @@
 
 ## 📌 Pin Project
 <details>
-  <summary>Bot Discord</summary>
+<details>
+  <summary>Bot</summary>
    <a href="https://github.com/Nobuyaki/RoxyBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=RoxyBot">
   </a>
+  <summary>App</summary>
+   <a href="https://github.com/Nobuyaki/RoxyBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=RoxyBot">
+  </a>
+</details>
 </details>
