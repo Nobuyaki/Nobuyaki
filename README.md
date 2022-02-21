@@ -22,6 +22,6 @@
 <details>
   <summary>App</summary>
    <a href="https://github.com/Nobuyaki/ChatApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=ChatApp">
+    <img src="./project/ChatApp.svg">
    </a>
 </details>
