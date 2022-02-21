@@ -11,19 +11,16 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nobuyaki&layout=compact&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobuyaki&layout=compact&theme=midnight-purple)](https://github.com/nobuyaki/github-readme-stats)
 
-## 📌 Pin Project
-<details>
-<summary>CATEGORIES</summary>
+## 📋 Category Project
 <details>
   <summary>Bot</summary>
    <a href="https://github.com/Nobuyaki/RoxyBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=RoxyBot">
-  </a>
+   </a>
 </details>
 <details>
   <summary>App<summary>
-   <a href="https://github.com/Nobuyaki/RoxyBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=RoxyBot">
-  </a>
-</details>
+   <a href="https://github.com/Nobuyaki/ChatApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=ChatApp">
+   </a>
 </details>
