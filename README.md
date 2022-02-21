@@ -18,8 +18,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=RoxyBot">
    </a>
 </details>
+
 <details>
-  <summary>App<summary>
+  <summary>App</summary>
    <a href="https://github.com/Nobuyaki/ChatApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nobuyaki&repo=ChatApp">
    </a>
