@@ -1,4 +1,4 @@
-name: Nobuyaki Bot
+name: auto commit
 
 on:
   push:
