@@ -3,6 +3,6 @@
   <br />
 
   <a href="https://www.instagram.com/0xviel">
-    <img alt="guilyx's Instagram" width="50px" src="./src/images/ICON_INSTAGRAMpng" />
+    <img alt="nobuyaki Instagram" width="50px" src="./src/images/ICON_INSTAGRAM.png" />
   </a>
 </p>
