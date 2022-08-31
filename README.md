@@ -16,20 +16,5 @@
   </a>
 </p>
 
-```javascript
-class Nobuyaki {
-  constructor() {
-    this.name = "Sandy Pratama";
-    this.age = "18";
-    this.hobby = ["", ""];
-  }
+**:zap: Profile:**
 
-  about() {
-    return {
-      "name": this.name
-      "age": this.age
-      "hobby": this.hobby
-    }
-  }
-}
-```
