@@ -16,5 +16,13 @@
   </a>
 </p>
 
-**:zap: Profile:**
+```yaml
+name  : Nobuyaki
+age   : 18 y.o
+hobby : ["", ""]
+
+fun fact : -
+```
+
+**🍢 Profile:**
 
