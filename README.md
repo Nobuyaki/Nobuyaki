@@ -17,5 +17,19 @@
 </p>
 
 ```javascript
- class Me {}
+class Nobuyaki {
+  constructor() {
+    this.name = "Sandy Pratama";
+    this.age = "18";
+    this.hobby = ["", ""];
+  }
+
+  about() {
+    return {
+      "name": this.name
+      "age": this.age
+      "hobby": this.hobby
+    }
+  }
+}
 ```
