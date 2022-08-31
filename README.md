@@ -1,5 +1,8 @@
 <p align="center">
   <img src="./src/images/BANNER.png" alt="Banner" />
+</p>
+
+<p align="center">
   <br />
 
   <a href="https://www.instagram.com/0xviel">
