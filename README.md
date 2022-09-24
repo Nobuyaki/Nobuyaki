@@ -25,7 +25,7 @@ fun fact : -
 ```
 
 **📊 Github Stats**
-<br />
+
 <a href="https://github.com/Nobuyaki/nobuyaki">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nobuyaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
