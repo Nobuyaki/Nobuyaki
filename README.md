@@ -22,7 +22,9 @@ hobby : ["", ""]
 fun fact : -
 ```
 
-### 📊 &nbsp;Github Stats
+<br />
+
+## 📊 &nbsp;Github Stats
 <a href="https://github.com/Nobuyaki/nobuyaki">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nobuyaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nobuyaki&layout=compact&langs_count=8&theme=algolia" />
