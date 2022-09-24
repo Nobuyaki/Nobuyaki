@@ -2,7 +2,6 @@
   <img src="./src/images/BANNER.png" alt="Banner" />
 </p>
 
-
 <p align="center">
   <a href="https://www.instagram.com/0xviel">
     <img alt="My Instagram" width="50px" src="./src/images/ICON_INSTAGRAM.png" />
@@ -22,7 +21,6 @@ hobby : ["", ""]
 
 fun fact : -
 ```
-
 
 **📊 Github Stats**
 
