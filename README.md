@@ -24,5 +24,9 @@ hobby : ["", ""]
 fun fact : -
 ```
 
-**🍢 Profile:**
+**📊 Github Stats**
+<p align="center">
+  [![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api?username=Nobuyaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/nobuyaki)
+</p>
+
 
