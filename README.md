@@ -26,7 +26,9 @@ fun fact : -
 
 **📊 Github Stats**
 <p align="center">
+```md
   [![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api?username=Nobuyaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/nobuyaki)
+```
 </p>
 
 
