@@ -14,12 +14,12 @@
   </a>
 </p>
 
-```yaml
-name  : Nobuyaki
-age   : 18 y.o
-hobby : ["", ""]
-
-fun fact : -
+```js
+const aboutMe = {
+  "name": "Dimas",
+  "age": "18",
+  "pronouns": ["he", "him"]
+}
 ```
 
 <br />
